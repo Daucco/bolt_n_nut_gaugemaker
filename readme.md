@@ -13,3 +13,5 @@ This script allows you to create bolt & nut gauges in OpenSCAD with customizable
 ## Usage
 
 (TBD)
+
+## Attribution
